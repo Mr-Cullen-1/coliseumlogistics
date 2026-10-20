@@ -15,7 +15,7 @@ export const navLinks: NavLink[] = [
 // (Header, Hero, Final CTA) shares this single source.
 export const primaryCta: NavLink = {
   label: "Apply for Training",
-  href: "https://t.me/coliseumlogisticss",
+  href: "https://t.me/coliseumlogistics",
 };
 
 export const secondaryCta: NavLink = {
